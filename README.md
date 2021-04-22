@@ -17,3 +17,6 @@ If you want elite-C compatibility:
 * Pins 101, 102, 107 should be connected to pins B7, D5, C7, F1, F0 (choose which ones).
 * Pins RAW (positive) and GND (negative) should be used for battery charging
 
+## License
+
+This work is licensed under the GNU GPLv3.
