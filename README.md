@@ -17,6 +17,10 @@ If you want elite-C compatibility:
 * Pins 101, 102, 107 should be connected to pins B7, D5, C7, F1, F0 (choose which ones).
 * Pins RAW (positive) and GND (negative) should be used for battery charging
 
-## License
+## Attribution and License
 
-This work is licensed under the GNU GPLv3.
+This work is licensed under the GNU GPLv3. It contains components from the following sources:
+### 3D Model: sparkfun_pro_micro.x3d
+- **Source Repository:** https://github.com/g200kg/kicad-lib-arduino
+- **License:** CC0-1.0
+- **Note:** Modified diffuse color on material for plate in line 3340
